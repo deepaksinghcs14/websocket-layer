@@ -3,4 +3,4 @@ This project aims to give an underlying layer which can be used to implement web
 
 #Architecture
 
-![Architecture](https://github.com/deepaksinghcs14/websocket-layer/images/_Web-socket Layer.png)
+![Architecture](images/architecture.png)
